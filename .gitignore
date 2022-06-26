@@ -1,0 +1,8 @@
+/dataset/7days_1min/
+/dataset/7days_5min/
+/dataset/7days_15min/
+/dataset/7days_60min/
+
+/models/GRU/
+/models/Liner/
+/models/LSTM/
